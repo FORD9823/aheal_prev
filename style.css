@@ -93,7 +93,7 @@ filter: grayscale(0) brightness(1.25);
 .container .box::after{
     content: attr(data-text);
     position: absolute;
-    bottom: -100px;
+    bottom: -120px;
     background: #fff;
     color: #000;
     font-size: 1em;
